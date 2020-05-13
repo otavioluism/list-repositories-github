@@ -21,4 +21,6 @@ Essa aplicação tem como objetivo fazer com que o usuário possa pesquisar e bu
     - yarn start 
 
 ## Aplicação
-![principal](https://user-images.githubusercontent.com/43592310/81833879-a2b7e000-9516-11ea-8414-212efc8de06a.png)
+![repositories](https://user-images.githubusercontent.com/43592310/81833879-a2b7e000-9516-11ea-8414-212efc8de06a.png)
+![issues](https://user-images.githubusercontent.com/43592310/81834188-03dfb380-9517-11ea-8578-2f7253910b70.png)
+
